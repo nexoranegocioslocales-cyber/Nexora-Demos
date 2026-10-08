@@ -1,0 +1,2 @@
+/* Identity: Maison Alba */
+.hero h1,h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500}.hero-image{border-radius:50% 50% 10px 10px}.hero-stamp{border-radius:50%;border:1px solid var(--accent);background:var(--bg);color:var(--ink);width:170px;height:170px;transform:rotate(-12deg)}.guide-card{text-align:center;border-radius:180px 180px 15px 15px;padding-top:45px}.experience-card img{border-radius:100px 100px 0 0}.quick-actions{border-radius:0;border-top:1px solid var(--accent);border-bottom:1px solid var(--accent)}.essentials{background:#e9dfe8}

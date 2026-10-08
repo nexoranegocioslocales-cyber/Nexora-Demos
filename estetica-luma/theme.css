@@ -1,0 +1,2 @@
+/* Identity: Luma Atelier */
+.hero h1,h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500}.hero h1{font-size:clamp(74px,9vw,132px)}.hero-image{border-radius:260px 260px 15px 15px}.catalog-card{background:#f0e2e5;border:0;border-radius:80px 80px 16px 16px;padding-top:25px}.catalog-card:nth-child(2n){background:#e8dcdf}.story-image{border-radius:220px 220px 15px 15px}.btn{border-radius:40px}.process-grid{border-top:1px solid #b898a4}.footer-word{font-family:Georgia,serif}

@@ -1,0 +1,908 @@
+[
+  {
+    "slug": "guest-mare",
+    "name": "Maré",
+    "kind": "GuestHub · Resort mediterráneo",
+    "theme": "coast",
+    "image": "sea",
+    "title": "Tu tiempo.<br>Tu Mediterráneo.",
+    "lead": "Todo lo que necesitas para disfrutar de tu estancia, a un solo toque. Baja el ritmo. Nosotros te guiamos.",
+    "tag": "COSTA / CALMA / CONTIGO",
+    "items": [
+      [
+        "Llegada sin prisas",
+        "Desde las 15:00",
+        "Recepción de 08:00 a 23:00. Si llegas más tarde, prepara una solicitud al equipo.",
+        "Llegada"
+      ],
+      [
+        "Desayuno frente al mar",
+        "07:30 — 10:30",
+        "Buffet en la terraza de la planta baja. Opciones vegetales disponibles bajo consulta.",
+        "Gastronomía"
+      ],
+      [
+        "Piscina & solárium",
+        "09:00 — 20:00",
+        "Toallas junto al acceso. Los menores deben estar acompañados.",
+        "Bienestar"
+      ],
+      [
+        "Tu última mañana",
+        "Salida hasta las 11:00",
+        "Deja la llave en recepción. Puedes solicitar guardar el equipaje.",
+        "Llegada"
+      ]
+    ],
+    "guest": true,
+    "place": "Mediterráneo",
+    "wifi": "MARE_GUEST_DEMO",
+    "password": "mare-demo-2026",
+    "experience": [
+      "Paseo por la costa",
+      "Mercado de productores",
+      "Atardecer en kayak"
+    ],
+    "colors": [
+      "#f5efe4",
+      "#172c35",
+      "#136775"
+    ],
+    "layout": "immersive",
+    "serviceOptions": [
+      "Toallas adicionales",
+      "Consulta de desayuno",
+      "Guardar equipaje",
+      "Llegada tardía"
+    ],
+    "enTitle": "Your time.<br>Your Mediterranean.",
+    "enLead": "Everything you need for your stay, one tap away. Slow down. We will guide you."
+  },
+  {
+    "slug": "guest-distrito",
+    "name": "Distrito 08",
+    "kind": "GuestHub · Apartamentos urbanos",
+    "theme": "city",
+    "image": "city",
+    "title": "La ciudad es tuya.",
+    "lead": "Tu apartamento, tus planes y todos los detalles de tu estancia en un panel. Sal y descubre Barcelona a tu manera.",
+    "tag": "YOUR CITY / YOUR STAY",
+    "items": [
+      [
+        "Acceso al apartamento",
+        "Check-in desde las 16:00",
+        "En esta demo el acceso se explica con una guía. Los códigos reales se compartirían por un canal privado.",
+        "Llegada"
+      ],
+      [
+        "Café & cowork",
+        "08:00 — 19:00",
+        "Elige una mesa en el lounge para trabajar o planear tu día.",
+        "Servicios"
+      ],
+      [
+        "Muévete en metro",
+        "Conecta con el barrio",
+        "Consulta las recomendaciones de transporte de tu anfitrión antes de salir.",
+        "Ciudad"
+      ],
+      [
+        "Check-out sencillo",
+        "Hasta las 11:00",
+        "Revisa que no dejas nada, cierra ventanas y deposita las llaves donde indica la guía.",
+        "Llegada"
+      ]
+    ],
+    "guest": true,
+    "place": "Barcelona",
+    "wifi": "DISTRITO_DEMO",
+    "password": "city-demo-only",
+    "experience": [
+      "Ruta de arquitectura",
+      "Café de especialidad",
+      "Paseo por el barrio"
+    ],
+    "colors": [
+      "#10151f",
+      "#f5f7fc",
+      "#75e1e6"
+    ],
+    "layout": "dashboard",
+    "serviceOptions": [
+      "Consulta de acceso",
+      "Mantenimiento",
+      "Guardar equipaje",
+      "Salida tardía"
+    ],
+    "enTitle": "The city is yours.",
+    "enLead": "Your apartment, your plans and all the details of your stay in one dashboard."
+  },
+  {
+    "slug": "guest-bosque",
+    "name": "Casa Bosque",
+    "kind": "GuestHub · Turismo rural",
+    "theme": "forest",
+    "image": "forest",
+    "title": "Respira.<br>Ya estás en casa.",
+    "lead": "Una guía tranquila para una estancia entre árboles. Descubre la casa, el entorno y pequeños planes que merecen tiempo.",
+    "tag": "MENOS RUIDO. MÁS NATURALEZA.",
+    "items": [
+      [
+        "La bienvenida",
+        "Desde las 15:00",
+        "Tu anfitrión te recibe en el patio. Prepara una consulta si necesitas llegar fuera del horario.",
+        "Llegada"
+      ],
+      [
+        "La cocina de la casa",
+        "Comparte la mesa",
+        "Encuentra utensilios en los cajones señalizados. Separa los residuos en las cubetas del patio.",
+        "La casa"
+      ],
+      [
+        "Chimenea & descanso",
+        "Disfrutar con cuidado",
+        "Consulta al anfitrión antes de encenderla y sigue las instrucciones de la casa.",
+        "La casa"
+      ],
+      [
+        "Rutas cerca de casa",
+        "Elige tu ritmo",
+        "Pide información sobre dificultad, previsión y equipamiento antes de iniciar una ruta.",
+        "Entorno"
+      ]
+    ],
+    "guest": true,
+    "place": "Entorno rural",
+    "wifi": "BOSQUE_DEMO",
+    "password": "forest-demo-only",
+    "experience": [
+      "Sendero entre árboles",
+      "Taller de pan artesano",
+      "Picnic de temporada"
+    ],
+    "colors": [
+      "#f1f0e4",
+      "#253d2b",
+      "#567052"
+    ],
+    "layout": "editorial",
+    "serviceOptions": [
+      "Llegada fuera de horario",
+      "Información de rutas",
+      "Cesta de desayuno",
+      "Leña para la chimenea"
+    ],
+    "enTitle": "Breathe.<br>You are home.",
+    "enLead": "A calm guide to your stay among trees. Discover the house and the world outside."
+  },
+  {
+    "slug": "guest-maison",
+    "name": "Maison Alba",
+    "kind": "GuestHub · Hotel boutique",
+    "theme": "boutique",
+    "image": "boutique",
+    "title": "El arte de<br>quedarte.",
+    "lead": "Detalles cuidados, momentos propios. Tu concierge digital para descubrir cada rincón de Maison Alba.",
+    "tag": "A STAY TO REMEMBER",
+    "items": [
+      [
+        "Un recibimiento personal",
+        "Desde las 15:00",
+        "En el salón de entrada encontrarás a nuestro equipo. Consulta cualquier necesidad antes de llegar.",
+        "Llegada"
+      ],
+      [
+        "Desayuno a tu ritmo",
+        "08:00 — 11:00",
+        "Selecciona tu preferencia en solicitudes. La disponibilidad se confirma con recepción.",
+        "Gastronomía"
+      ],
+      [
+        "Spa & bienestar",
+        "Bajo solicitud",
+        "Consulta los tratamientos y horarios del espacio de bienestar.",
+        "Bienestar"
+      ],
+      [
+        "Biblioteca & salón",
+        "Tu pausa favorita",
+        "Lee, disfruta de un café o descubre nuestra selección de diseño.",
+        "Experiencias"
+      ]
+    ],
+    "guest": true,
+    "place": "Hotel boutique",
+    "wifi": "MAISON_DEMO",
+    "password": "alba-demo-only",
+    "experience": [
+      "Arquitectura & diseño",
+      "Degustación de temporada",
+      "Paseo cultural privado"
+    ],
+    "colors": [
+      "#f5edf3",
+      "#342238",
+      "#8a5e74"
+    ],
+    "layout": "arch",
+    "serviceOptions": [
+      "Preferencia de desayuno",
+      "Consulta de spa",
+      "Experiencia cultural",
+      "Servicio de habitación"
+    ],
+    "enTitle": "The art of<br>staying.",
+    "enLead": "Thoughtful details, your own moments. A digital concierge for every corner of Maison Alba."
+  },
+  {
+    "slug": "guest-nomad",
+    "name": "Nomad Social",
+    "kind": "GuestHub · Hostel & comunidad",
+    "theme": "hostel",
+    "image": "hostel",
+    "title": "CHECK IN.<br>GO OUT.<br>CONNECT.",
+    "lead": "La guía del hostel para viajeros que vienen a conocer gente, explorar el barrio y vivir algo nuevo.",
+    "tag": "SLEEP / EXPLORE / REPEAT",
+    "items": [
+      [
+        "Tu primera parada",
+        "Check-in 15:00",
+        "Recoge tu llave en el mostrador. Pregunta por las actividades de esta semana.",
+        "Llegada"
+      ],
+      [
+        "Cocina compartida",
+        "07:00 — 23:00",
+        "Etiqueta tu comida y limpia después de usar el espacio. Compartir también es cuidar.",
+        "Hostel"
+      ],
+      [
+        "Zona chill",
+        "Conecta sin ruido",
+        "Juegos y conversación hasta las 23:00. Después, modo descanso.",
+        "Hostel"
+      ],
+      [
+        "Tu mochila, a salvo",
+        "Consulta recepción",
+        "Solicita información sobre consignas. No compartas códigos personales.",
+        "Servicios"
+      ]
+    ],
+    "guest": true,
+    "place": "Hostel urbano",
+    "wifi": "NOMAD_DEMO",
+    "password": "nomad-demo-only",
+    "experience": [
+      "Paseo en grupo",
+      "Cena compartida",
+      "Ruta de arte urbano"
+    ],
+    "colors": [
+      "#ff653c",
+      "#171717",
+      "#f5f14b"
+    ],
+    "layout": "poster",
+    "serviceOptions": [
+      "Consigna de equipaje",
+      "Actividad de grupo",
+      "Toalla adicional",
+      "Consulta de habitación"
+    ],
+    "enTitle": "CHECK IN.<br>GO OUT.<br>CONNECT.",
+    "enLead": "Your hostel guide for meeting people, exploring the neighbourhood and trying something new."
+  },
+  {
+    "slug": "restaurante-brasa",
+    "name": "Brasa & Sal",
+    "kind": "Restaurante",
+    "theme": "restaurant",
+    "image": "restaurant",
+    "title": "El fuego.<br>La mesa.<br>El momento.",
+    "lead": "Cocina de temporada, brasas encendidas y sobremesas que no miran el reloj. Descubre una carta que cambia con el mercado.",
+    "tag": "COCINA ABIERTA / MESA COMPARTIDA",
+    "items": [
+      [
+        "Burrata de temporada",
+        "Entrantes",
+        14,
+        "Tomate, albahaca y aceite de oliva. Contiene leche."
+      ],
+      [
+        "Verduras a la brasa",
+        "Entrantes",
+        12,
+        "Selección de temporada, romesco. Contiene frutos secos."
+      ],
+      [
+        "Arroz del día",
+        "Principales",
+        22,
+        "Pregunta por los ingredientes del día. Precio por persona."
+      ],
+      [
+        "Pescado de lonja",
+        "Principales",
+        26,
+        "Guarnición de verduras. Contiene pescado."
+      ],
+      [
+        "Tarta de queso",
+        "Postres",
+        8,
+        "Cremosa, con frutos rojos. Contiene leche, huevo y gluten."
+      ],
+      [
+        "Chocolate & sal",
+        "Postres",
+        8,
+        "Chocolate negro y aceite. Consulta alérgenos."
+      ]
+    ],
+    "colors": [
+      "#191914",
+      "#f1e7d1",
+      "#e88542"
+    ],
+    "layout": "centered",
+    "feature": "menu",
+    "sectionTitle": "Una carta con carácter.",
+    "cta": "Preparar reserva",
+    "services": [
+      "Mesa para dos",
+      "Celebración en grupo",
+      "Consulta de carta"
+    ],
+    "story": "Producto de temporada. Cocción honesta. Un comedor donde cada plato invita a quedarse. Esta propuesta reúne carta, reserva y experiencia en una sola web.",
+    "storyImage": "food"
+  },
+  {
+    "slug": "clinica-clara",
+    "name": "Clara Dental",
+    "kind": "Clínica dental",
+    "theme": "dental",
+    "image": "dental",
+    "title": "Una sonrisa.<br>Más tranquilidad.",
+    "lead": "Una propuesta de clínica cercana, donde las explicaciones son claras y cada visita empieza escuchándote.",
+    "tag": "CLARIDAD EN CADA VISITA",
+    "items": [
+      [
+        "Primera visita",
+        "Valoración",
+        0,
+        "Conoce al equipo y plantea tus dudas. Las condiciones se confirman con la clínica."
+      ],
+      [
+        "Higiene dental",
+        "Prevención",
+        55,
+        "Servicio de ejemplo. La idoneidad se valora de forma individual."
+      ],
+      [
+        "Ortodoncia",
+        "Tratamientos",
+        0,
+        "Información sobre alternativas, proceso y seguimiento."
+      ],
+      [
+        "Estética dental",
+        "Tratamientos",
+        0,
+        "Consulta opciones con un profesional tras valoración."
+      ],
+      [
+        "Odontología infantil",
+        "Familias",
+        0,
+        "Una visita adaptada al ritmo de cada peque."
+      ],
+      [
+        "Seguimiento",
+        "Prevención",
+        0,
+        "Agenda una revisión según las indicaciones de tu profesional."
+      ]
+    ],
+    "colors": [
+      "#eff8fa",
+      "#143947",
+      "#2b7484"
+    ],
+    "layout": "bento",
+    "feature": "treatments",
+    "sectionTitle": "Preguntar es el primer paso.",
+    "cta": "Preparar cita",
+    "services": [
+      "Primera visita",
+      "Higiene dental",
+      "Ortodoncia",
+      "Estética dental",
+      "Odontología infantil"
+    ],
+    "story": "Un espacio pensado para entender tu tratamiento. Información sencilla sobre el proceso, tiempo para tus preguntas y un equipo presentado con transparencia.",
+    "storyImage": "workspace"
+  },
+  {
+    "slug": "barberia-ritual",
+    "name": "Ritual Studio",
+    "kind": "Barbería",
+    "theme": "barber",
+    "image": "barber",
+    "title": "BUEN CORTE.<br>BUENA ACTITUD.",
+    "lead": "Corte, barba y una hora para ti. Un estudio de barbería con oficio, identidad y agenda sin complicaciones.",
+    "tag": "CUTS / SHAVES / CULTURE",
+    "items": [
+      [
+        "Corte clásico",
+        "Corte",
+        24,
+        "40 min · Tijera y acabado."
+      ],
+      [
+        "Skin fade",
+        "Corte",
+        27,
+        "45 min · Degradado y styling."
+      ],
+      [
+        "Barba perfilada",
+        "Barba",
+        18,
+        "25 min · Perfilado y cuidado."
+      ],
+      [
+        "Corte + barba",
+        "Rituales",
+        39,
+        "60 min · El ritual completo."
+      ],
+      [
+        "Afeitado tradicional",
+        "Barba",
+        22,
+        "30 min · Toalla caliente y acabado."
+      ],
+      [
+        "Ritual premium",
+        "Rituales",
+        49,
+        "75 min · Corte, barba y cuidado."
+      ]
+    ],
+    "colors": [
+      "#eee9df",
+      "#171717",
+      "#c5572d"
+    ],
+    "layout": "magazine",
+    "feature": "services",
+    "sectionTitle": "Encuentra tu ritual.",
+    "cta": "Elegir cita",
+    "services": [
+      "Corte clásico",
+      "Skin fade",
+      "Barba perfilada",
+      "Corte + barba",
+      "Ritual premium"
+    ],
+    "story": "Una silla. Una conversación. Un corte que encaja contigo. Del estilo clásico a los degradados, el sitio permite explorar servicios y preparar una cita con preferencias.",
+    "storyImage": "barber",
+    "team": [
+      "Alex · Clásicos & tijera",
+      "Dani · Fades & textura",
+      "Sam · Barba & afeitado"
+    ]
+  },
+  {
+    "slug": "gimnasio-pulse",
+    "name": "PULSE Club",
+    "kind": "Gimnasio & entrenamiento",
+    "theme": "gym",
+    "image": "gym",
+    "title": "MOVE.<br>YOUR.<br>LIMITS.",
+    "lead": "Fuerza, comunidad y sesiones que se adaptan a tu semana. Encuentra tu clase y construye una rutina a tu ritmo.",
+    "tag": "ENERGÍA QUE SE CONTAGIA",
+    "items": [
+      [
+        "Strength Lab",
+        "Lunes",
+        0,
+        "07:00 · 50 min · Fuerza"
+      ],
+      [
+        "Mobility Flow",
+        "Lunes",
+        0,
+        "18:00 · 45 min · Movilidad"
+      ],
+      [
+        "Power Circuit",
+        "Miércoles",
+        0,
+        "19:00 · 45 min · Circuito"
+      ],
+      [
+        "Strength Lab",
+        "Miércoles",
+        0,
+        "08:00 · 50 min · Fuerza"
+      ],
+      [
+        "Weekend Reset",
+        "Sábado",
+        0,
+        "10:00 · 45 min · Movilidad"
+      ],
+      [
+        "Team Workout",
+        "Sábado",
+        0,
+        "11:00 · 50 min · Equipo"
+      ]
+    ],
+    "colors": [
+      "#101210",
+      "#f6f7f1",
+      "#cafc3a"
+    ],
+    "layout": "kinetic",
+    "feature": "classes",
+    "sectionTitle": "Tu semana en movimiento.",
+    "cta": "Probar una sesión",
+    "services": [
+      "Clase de prueba",
+      "Visita al club",
+      "Entrenamiento personal",
+      "Información de planes"
+    ],
+    "story": "El entrenamiento empieza con un plan que puedas mantener. Explora clases, compara modalidades y prepara una visita para conocer el espacio.",
+    "storyImage": "gym"
+  },
+  {
+    "slug": "reformas-forma",
+    "name": "FORMA Estudio",
+    "kind": "Reformas & interiorismo",
+    "theme": "interior",
+    "image": "interior",
+    "title": "Espacios para<br>vivir mejor.",
+    "lead": "Reformas con una idea clara: transformar tu casa con criterio, materiales elegidos y un proceso que puedas entender.",
+    "tag": "DISEÑO / OBRA / DETALLE",
+    "items": [
+      [
+        "Cocina abierta",
+        "Vivienda",
+        0,
+        "Luz natural y una zona de encuentro para toda la casa."
+      ],
+      [
+        "Baño sereno",
+        "Detalle",
+        0,
+        "Materiales cálidos y soluciones prácticas."
+      ],
+      [
+        "Apartamento flexible",
+        "Vivienda",
+        0,
+        "Una distribución que acompaña distintas formas de vivir."
+      ],
+      [
+        "Espacio de trabajo",
+        "Comercial",
+        0,
+        "Orden, acústica y una identidad propia."
+      ]
+    ],
+    "colors": [
+      "#f2ede6",
+      "#39312c",
+      "#b86140"
+    ],
+    "layout": "editorial",
+    "feature": "estimate",
+    "sectionTitle": "Una primera idea de tu proyecto.",
+    "cta": "Preparar proyecto",
+    "services": [
+      "Reforma integral",
+      "Cocina",
+      "Baño",
+      "Interiorismo"
+    ],
+    "story": "Medir, dibujar, elegir y acompañar. La propuesta explica las fases de una reforma y permite preparar un primer briefing sin prometer un precio cerrado.",
+    "storyImage": "home"
+  },
+  {
+    "slug": "inmobiliaria-habita",
+    "name": "Habita Studio",
+    "kind": "Inmobiliaria",
+    "theme": "home",
+    "image": "home",
+    "title": "Tu próxima<br>forma de vivir.",
+    "lead": "Una selección de viviendas para personas, no para números de referencia. Explora, compara y guarda lo que encaja contigo.",
+    "tag": "HOMES WITH A POINT OF VIEW",
+    "items": [
+      [
+        "Luz en el Eixample",
+        "Venta",
+        425000,
+        "82 m² · 2 habitaciones · Barcelona"
+      ],
+      [
+        "Terraza en el barrio",
+        "Alquiler",
+        1350,
+        "65 m² · 2 habitaciones · Barcelona"
+      ],
+      [
+        "Casa con jardín",
+        "Venta",
+        595000,
+        "140 m² · 3 habitaciones · Baix Llobregat"
+      ],
+      [
+        "Estudio conectado",
+        "Alquiler",
+        950,
+        "42 m² · 1 habitación · Barcelona"
+      ]
+    ],
+    "colors": [
+      "#f0f2f7",
+      "#17325e",
+      "#295bc8"
+    ],
+    "layout": "property",
+    "feature": "properties",
+    "sectionTitle": "Encuentra tu lugar.",
+    "cta": "Preparar visita",
+    "services": [
+      "Visitar una vivienda",
+      "Vender mi inmueble",
+      "Alquilar mi inmueble",
+      "Asesoramiento"
+    ],
+    "story": "La información antes que la presión. Fichas claras, favoritos que se guardan en tu dispositivo y un camino sencillo para preparar una visita.",
+    "storyImage": "interior"
+  },
+  {
+    "slug": "estetica-luma",
+    "name": "Luma Atelier",
+    "kind": "Estética & bienestar",
+    "theme": "beauty",
+    "image": "beauty",
+    "title": "Vuelve<br>a ti.",
+    "lead": "Un espacio para parar, cuidar y dedicarte tiempo. Rituales de bienestar con una experiencia tan cuidada como el espacio.",
+    "tag": "PAUSA / CUIDADO / EQUILIBRIO",
+    "items": [
+      [
+        "Ritual facial",
+        "Facial",
+        65,
+        "60 min · Cuidado cosmético adaptado tras consulta."
+      ],
+      [
+        "Masaje relajante",
+        "Corporal",
+        55,
+        "50 min · Una pausa para bajar el ritmo."
+      ],
+      [
+        "Manicura esencial",
+        "Manos",
+        28,
+        "40 min · Preparación y acabado."
+      ],
+      [
+        "Ritual manos & pies",
+        "Manos",
+        48,
+        "70 min · Cuidado y acabado completo."
+      ],
+      [
+        "Experiencia Luma",
+        "Corporal",
+        95,
+        "90 min · Combinación de rituales de ejemplo."
+      ]
+    ],
+    "colors": [
+      "#f7eff0",
+      "#523f48",
+      "#9e6377"
+    ],
+    "layout": "arch",
+    "feature": "services",
+    "sectionTitle": "Elige tu momento.",
+    "cta": "Preparar cita",
+    "services": [
+      "Ritual facial",
+      "Masaje relajante",
+      "Manicura esencial",
+      "Experiencia Luma"
+    ],
+    "story": "Texturas suaves, luz tranquila y tiempo para escucharte. Una web que presenta el ritual, explica lo que incluye y permite preparar tu preferencia de cita.",
+    "storyImage": "beauty"
+  },
+  {
+    "slug": "veterinaria-nido",
+    "name": "Nido Vet",
+    "kind": "Veterinaria",
+    "theme": "vet",
+    "image": "vet",
+    "title": "Su bienestar.<br>Tu tranquilidad.",
+    "lead": "Un espacio de atención veterinaria pensado para acompañar a las familias y explicar cada paso con cercanía.",
+    "tag": "CERCA DE QUIEN MÁS QUIERES",
+    "items": [
+      [
+        "Consulta general",
+        "Perros",
+        0,
+        "Revisión por un profesional y orientación personalizada."
+      ],
+      [
+        "Consulta felina",
+        "Gatos",
+        0,
+        "Atención adaptada a las necesidades de los gatos."
+      ],
+      [
+        "Prevención",
+        "Perros",
+        0,
+        "Consulta programas de seguimiento con el equipo."
+      ],
+      [
+        "Cuidado senior",
+        "Gatos",
+        0,
+        "Valoración y acompañamiento en cada etapa."
+      ],
+      [
+        "Primera visita",
+        "Otros",
+        0,
+        "Pregunta por las especies y servicios disponibles."
+      ]
+    ],
+    "colors": [
+      "#f5f3e5",
+      "#304232",
+      "#6b7d33"
+    ],
+    "layout": "friendly",
+    "feature": "species",
+    "sectionTitle": "Cada compañero es diferente.",
+    "cta": "Preparar consulta",
+    "services": [
+      "Consulta general",
+      "Consulta felina",
+      "Prevención",
+      "Primera visita"
+    ],
+    "story": "Conocer a tu compañero también es conocerte a ti. La propuesta facilita explorar servicios por especie y preparar una consulta. No incluye diagnóstico ni atención urgente.",
+    "storyImage": "vet"
+  },
+  {
+    "slug": "taller-torque",
+    "name": "TORQUE Garage",
+    "kind": "Taller mecánico",
+    "theme": "garage",
+    "image": "garage",
+    "title": "TU COCHE.<br>SIN RODEOS.",
+    "lead": "Información clara, servicios concretos y una primera consulta bien preparada. Mantenimiento con transparencia desde el primer clic.",
+    "tag": "PRECISIÓN / OFICIO / CONFIANZA",
+    "items": [
+      [
+        "Cambio de aceite",
+        "Mantenimiento",
+        89,
+        "Desde 89 € de ejemplo · Depende de aceite, filtro y modelo."
+      ],
+      [
+        "Revisión general",
+        "Mantenimiento",
+        65,
+        "Desde 65 € de ejemplo · Alcance sujeto a valoración."
+      ],
+      [
+        "Diagnóstico electrónico",
+        "Diagnóstico",
+        45,
+        "Desde 45 € de ejemplo · Consulta las condiciones."
+      ],
+      [
+        "Frenos",
+        "Seguridad",
+        0,
+        "Revisión y presupuesto tras inspección."
+      ],
+      [
+        "Neumáticos",
+        "Seguridad",
+        0,
+        "Consulta medidas, disponibilidad y montaje."
+      ]
+    ],
+    "colors": [
+      "#101b28",
+      "#e9f0f8",
+      "#4aa5ff"
+    ],
+    "layout": "technical",
+    "feature": "garage",
+    "sectionTitle": "Prepara tu visita al taller.",
+    "cta": "Solicitar valoración",
+    "services": [
+      "Cambio de aceite",
+      "Revisión general",
+      "Diagnóstico electrónico",
+      "Frenos",
+      "Neumáticos"
+    ],
+    "story": "Un servicio se entiende mejor cuando sabes qué se revisa. Explora el catálogo, selecciona tu vehículo y genera un resumen para una valoración posterior.",
+    "storyImage": "garage"
+  },
+  {
+    "slug": "academia-level",
+    "name": "LEVEL Academy",
+    "kind": "Academia de idiomas",
+    "theme": "academy",
+    "image": "academy",
+    "title": "Abre una<br>nueva conversación.",
+    "lead": "Idiomas para usarlos. Grupos por nivel, objetivos claros y un programa que puedas encajar en tu semana.",
+    "tag": "APRENDE / PRACTICA / CONECTA",
+    "items": [
+      [
+        "English Starter",
+        "A1–A2",
+        69,
+        "Lunes y miércoles · 18:00 · Precio mensual de ejemplo"
+      ],
+      [
+        "English Conversation",
+        "B1–B2",
+        79,
+        "Martes y jueves · 19:00 · Precio mensual de ejemplo"
+      ],
+      [
+        "Business English",
+        "B1–B2",
+        95,
+        "Viernes · 18:00 · Precio mensual de ejemplo"
+      ],
+      [
+        "Advanced Lab",
+        "C1",
+        89,
+        "Martes y jueves · 20:00 · Precio mensual de ejemplo"
+      ],
+      [
+        "Español cotidiano",
+        "A1–A2",
+        69,
+        "Lunes y miércoles · 10:00 · Precio mensual de ejemplo"
+      ]
+    ],
+    "colors": [
+      "#f6f2ff",
+      "#30235c",
+      "#7354ce"
+    ],
+    "layout": "playful",
+    "feature": "courses",
+    "sectionTitle": "Encuentra tu próximo nivel.",
+    "cta": "Preparar inscripción",
+    "services": [
+      "Prueba de nivel",
+      "English Starter",
+      "English Conversation",
+      "Business English",
+      "Advanced Lab",
+      "Español cotidiano"
+    ],
+    "story": "Hablar más y memorizar menos: una propuesta que presenta niveles, modalidades y horarios antes de preparar una inscripción. El resultado de la prueba orientativa no certifica un nivel.",
+    "storyImage": "academy"
+  }
+]
