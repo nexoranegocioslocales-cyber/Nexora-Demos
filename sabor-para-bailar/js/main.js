@@ -1,20 +1,21 @@
 const menuToggle=document.querySelector('.menu-toggle');
 const nav=document.querySelector('.site-nav');
 
-// Identidad visual oficial de Sabor Para Bailar.
 const brandMark=document.querySelector('.brand-mark');
 if(brandMark){
   brandMark.textContent='';
   brandMark.style.background="url('assets/images/brand-icon.webp') center/contain no-repeat";
-  brandMark.style.borderRadius='10px';
-  brandMark.style.border='1px solid rgba(255,255,255,.08)';
+  brandMark.style.borderRadius='0';
+  brandMark.style.border='0';
+  brandMark.style.backgroundColor='transparent';
 }
 const heroMedia=document.querySelector('.hero-media');
 if(heroMedia){
   heroMedia.style.backgroundImage="url('assets/images/brand-logo.webp')";
   heroMedia.style.backgroundPosition='center';
-  heroMedia.style.backgroundSize='cover';
+  heroMedia.style.backgroundSize='contain';
   heroMedia.style.backgroundRepeat='no-repeat';
+  heroMedia.style.backgroundColor='#050505';
 }
 
 menuToggle?.addEventListener('click',()=>{
