@@ -5,7 +5,7 @@ const nav=document.querySelector('.site-nav');
 const brandMark=document.querySelector('.brand-mark');
 if(brandMark){
   brandMark.textContent='';
-  brandMark.style.background="url('assets/images/logo-cafe.webp') center/cover no-repeat";
+  brandMark.style.background="url('assets/images/cafe-icon.jpg') center/cover no-repeat";
   brandMark.style.borderRadius='10px';
   brandMark.style.border='1px solid rgba(255,255,255,.08)';
 }
